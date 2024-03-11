@@ -1,4 +1,4 @@
-# IoT_LAB1
-LAB1 - Internet of things
+# IoT_LAB
+LAB - Internet of Things
 
-This lab will give fundamental information about Adafruit server
+This lab will give fundamental information about the Adafruit server, Mobile app and Hardware connection
